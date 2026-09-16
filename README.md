@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：数据范围
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 004 篇 - 百家乐Ai预测分析工具：用时间窗口解释同一房间的统计差异](https://github.com/TGmszrcsz/baccarat-ai-004) ｜ [下一篇：第 006 篇 - 百家乐Ai预测分析工具：避免把当前筛选结果当成全部历史](https://github.com/TGmszrcsz/baccarat-ai-006)
+
+<!-- article-chain:end -->
+
 页面一秒刷新一次，记录数量似乎增长得很快。本篇围绕“刷新频率与真实事件数量的区别”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
